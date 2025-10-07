@@ -1,0 +1,33 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Website Oplib Universitas Telkom",
+    "owner": "Villa",
+    "description": "Website Oplib Universitas Telkom merupakan sistem informasi perpustakaan online yang menyediakan layanan akses koleksi digital, pencarian buku, manajemen peminjaman, serta informasi keanggotaan bagi mahasiswa dan dosen. Sistem ini memungkinkan pengguna untuk melakukan login, mencari koleksi, melakukan reservasi buku, dan mengelola data peminjaman secara daring. ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "villa"
+      },
+      {
+        "name": "nanda"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagram STRIDE baru",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Dosen",
+    "threatTop": 0
+  }
+}
